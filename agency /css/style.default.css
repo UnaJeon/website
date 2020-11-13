@@ -1,10 +1,10 @@
-/* 
-========================================= 
-========================================= 
+/*
+=========================================
+=========================================
 
-Biz Template By Bootstrapious.com      
+Biz Template By Bootstrapious.com
 
-========================================= 
+=========================================
 ========================================= */
 /*
 
@@ -197,6 +197,9 @@ SERVICES
   text-align: center;
   font-size: 11px;
 }
+.box-services .button{
+  text-align: center;
+}
 /*
 
 =====================
@@ -248,7 +251,7 @@ TEAM
   text-decoration: none;
   font-weight: normal;
 }
-.team-member .social a i {
+/* .team-member .social a i {
   vertical-align: bottom;
   line-height: 26px;
 }
@@ -273,7 +276,7 @@ TEAM
 .team-member .text p {
   color: #999999;
   font-size: 11px;
-}
+} */
 /*
 
 =====================
